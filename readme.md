@@ -19,7 +19,7 @@ This repository demonstrates automation testing for:
 ### ▶ Run API tests
 ```bash
 npm run api
-
+```
 ---
 
 ## ✅ 2. Web UI Automation – Test Automation Practice Blog
@@ -35,7 +35,7 @@ npm run api
 ### ▶ Run web tests
 ```bash
 npm run web
-
+```
 ---
 
 ## ✅ 3. Mobile Automation – Trust Wallet App
@@ -51,5 +51,5 @@ npm run web
 ### ▶ Run web tests
 ```bash
 npm run mobile
-
+```
 
